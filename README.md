@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-[Watch Live Demo](https://realtor-clone-react-pradhyumn-singhs-projects.vercel.app/).\
+[Watch Live Demo](https://realtor-clone-react-pradhyumn-singhs-projects.vercel.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
